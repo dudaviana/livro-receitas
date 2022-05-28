@@ -3,7 +3,5 @@
 Olá bem-vindo ao meu livro de receitas:wave:
 
 - Torta de frango
-
 - Pavê
-
-  
+- Bolo de Cenoura
